@@ -4,7 +4,7 @@ $( ".button" ).on( "click", function() {
   $( ".header" ).toggleClass("headerToggle");
 });
 
-//fonction de soumission du formulaire
+//fonction de soumission du formulaire avec un onclick sur le boutton submit
 /*function submitForm(){
     var form = document.forms["formsubmit"];
     var firstname = form.firstname.value;
